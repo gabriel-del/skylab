@@ -2,7 +2,7 @@
 baseURL = "https://skylab-fc.netlify.app/"
 languageCode = "pt-br"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "skylab"
 title = "Skylab"
 
 # css plugins
@@ -29,17 +29,17 @@ link = "plugins/google-map/map.js"
 
 # menu
 [[menu.main]]
-URL = "sobre"
+URL = "about"
 name = "Sobre"
 weight = 1
 
 [[menu.main]]
-URL = "apresentacoes"
+URL = "blog"
 name = "Apresentações"
 weight = 2
 
 [[menu.main]]
-URL = "visitas"
+URL = "portfolio"
 name = "Visitas"
 weight = 3
 

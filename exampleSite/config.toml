@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://skylab-fc.netlify.app/"
 languageCode = "pt-br"
 summaryLength = "10"
 theme = "kross-hugo"

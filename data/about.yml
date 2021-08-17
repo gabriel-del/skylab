@@ -1,41 +1,55 @@
 # work process
 work_process:
-  enable : true
-  title : "Processo de Trabalho"
+  enable : false
+  title : "Trajetórias"
   item:
-  - title : "Research and Plan"
+  - title : "Jamile Alves"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "<b>Sou Jamile, sou natural de Campos Sales no interior do Ceará mas estou
+morando em Olinda-PE. O contato com a Atenção Básica mudou a minha
+perspectiva de mundo, não só como aluna, mas também como usuária e
+futura colaboradora.</b>"
     
-  - title : "Design and Develop"
+  - title : "Ingridy Souza"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Sou Ingridy, tenho 24 anos e sou residente e natural da cidade do Recife. As vivências práticas, na USF acabaram por superar as minhas expectativas e propiciaram uma nova perspectiva de atuação, sendo essa, mais humanizada e empática."
     
-  - title : "Deliver"
+  - title : "Victor Nunes"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Sou Victor, resido no município de Paudalho na Zona da Mata Norte de
+Pernambuco. Ingressei na UFPE no curso de Fisioterapia e neste período tive
+um contato um pouco diferente com o Sistema Único de Saúde pois dessa
+vez estou na condição de graduando, acompanhando as visitas e
+colaborando sempre que possível na promoção de saúde."
 
 
 # team
 team:
   enable: true
-  title : "Parceiros"
+  title : "Integrantes"
   team_member:
     - title : "Jamile Alves"
       image : "images/team/jamile.jpeg"
-      designation : "Graduanda em Fisioterapia"
+      designation : "Sou Jamile, sou natural de Campos Sales no interior do Ceará mas estou
+morando em Olinda-PE. O contato com a Atenção Básica mudou a minha
+perspectiva de mundo, não só como aluna, mas também como usuária e
+futura colaboradora."
       
     - title : "Ingridy Souza"
       image : "images/team/ingridy.jpeg"
-      designation : "Graduanda em Fisioterapia"
+      designation : "Sou Ingridy, tenho 24 anos e sou residente e natural da cidade do Recife. As vivências práticas, na USF acabaram por superar as minhas expectativas e propiciaram uma nova perspectiva de atuação, sendo essa, mais humanizada e empática."
       
     - title : "Victor Nunes"
       image : "images/team/victor.jpeg"
-      designation : "Graduando em Fisioterapia"
+      designation : "Sou Victor, resido no município de Paudalho na Zona da Mata Norte de
+Pernambuco. Ingressei na UFPE no curso de Fisioterapia e neste período tive
+um contato um pouco diferente com o Sistema Único de Saúde pois dessa
+vez estou na condição de graduando, acompanhando as visitas e
+colaborando sempre que possível na promoção de saúde."
 
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   title : "Os Pacientes"
   # clients logo comes from 'data/homepage.yml' file

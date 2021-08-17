@@ -16,7 +16,7 @@
               <i class="ti-calendar"></i>
               <div class="ml-3">
                 <h4>Data</h4>
-                <p>{{ .PublishDate.Format "Jan 02, 2006" }}</p>
+                <p>{{ .PublishDate.Format "02 Jan 2006" }}</p>
               </div>
             </div>
           </div>
@@ -25,7 +25,7 @@
             <div class="project-meta">
               <i class="ti-user"></i>
               <div class="ml-3">
-                <h4>Cliente</h4>
+                <h4>Paciente</h4>
                 <p>{{. | markdownify}}</p>
               </div>
             </div>
@@ -35,7 +35,7 @@
             <div class="project-meta">
               <i class="ti-folder"></i>
               <div class="ml-3">
-                <h4>Categorias</h4>
+                <h4>Patologias</h4>
                 <p>{{ delimit .Params.categories ", " | humanize }}</p>
               </div>
             </div>
@@ -45,8 +45,8 @@
             <div class="project-meta">
               <i class="ti-link"></i>
               <div class="ml-3">
-                <h4>Link do Projeo</h4>
-                <p>{{. | markdownify}}</p>
+                <h4>Link do Projeto</h4>
+                <p>https://skylab-fc.netlify.app/</p>
               </div>
             </div>
           </div>

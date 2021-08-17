@@ -5,37 +5,37 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Fisioterapia é de mais."
   button:
     enable : true
-    label : "know more"
+    label : "Saber Mais"
     URL : "about"
 
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "Habilidades"
   item:
-    - title : "Web Design"
+    - title : "Ajeitar"
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Concertar"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Arrumar"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
+    - title : "Endireitar"
       progress : "70%"
       color : "#ffbcaa"
 
 # experience
 experience:
   enable : true
-  title : "Experience"
+  title : "Experiência"
   item: 
     - logo : "images/experience/icon-1.png"
       title : "Junior UX Designer"
@@ -55,7 +55,7 @@ experience:
 # education
 education:
   enable : true
-  title : "Education"
+  title : "Educação"
   item:
     - title : "Marters in UX Design"
       year : "2006"
@@ -76,7 +76,7 @@ education:
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Serviços"
   item:
     - title : "UI Design"
       icon : "ti-palette"
@@ -96,14 +96,14 @@ service:
 # portfolio
 portfolio:
   enable : true
-  title : "Portfolio"
+  title : "Visitas"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
   enable : true
-  title : "Testimonials"
+  title : "Depoimentos"
   item:
     - name : "Jesica Gomez"
       image : "images/testimonial/client-1.png"

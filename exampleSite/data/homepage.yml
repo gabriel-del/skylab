@@ -1,7 +1,7 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
-
+  title : <br> Fisioterapia aplicada <br> à Saúde Coletiva - FC
+  
 # about
 about:
   enable : true
@@ -157,5 +157,5 @@ clients_logo_slider:
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "Apresentações"
   # blog post comes from "content/blog" folder

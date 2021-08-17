@@ -84,7 +84,7 @@
               <div class="wave" data-progress="{{.progress}}"></div>
             </div>
             <div class="card-footer bg-white">
-              <h4 class="card-title">{{.title }} ({{.progress}})</h4>
+              <h4 class="card-title">{{.title }}</h4>
             </div>
           </div>
         </div>
@@ -226,7 +226,7 @@
           <div class="text-center testimonial-content">
             <i class="ti-quote-right text-white icon mb-4 d-inline-block"></i>
             <p class="text-white mb-4">{{.content | markdownify}}</p>
-            <img class="img-fluid rounded-circle mb-4 d-inline-block" src="{{.image | absURL }}" alt="client-image">
+            <img class="img-fluid rounded-circle mb-4 d-inline-block" width="106"  src="{{.image | absURL }}"   alt="client-image">
             <h4 class="text-white">{{.name }}</h4>
             <h6 class="text-light mb-4">{{ .designation }}</h6>
           </div>

@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Fisioterapia é de mais."
+  content : "Site desenvolvido para apresentação das atividades práticas na USF - Skylab"
   button:
     enable : true
     label : "Saber Mais"
@@ -14,47 +14,47 @@ about:
 # skill
 skill:
   enable : true
-  title : "Habilidades"
+  title : "Pilares"
   item:
-    - title : "Ajeitar"
-      progress : "90%"
+    - title : "Pacientes"
+      progress : "80%"
       color : "#fdb157"
       
-    - title : "Concertar"
-      progress : "60%"
+    - title : "Discentes"
+      progress : "80%"
       color : "#9473e6"
       
-    - title : "Arrumar"
+    - title : "Profissionais da USF"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Endireitar"
-      progress : "70%"
+    - title : "Docentes"
+      progress : "80%"
       color : "#ffbcaa"
 
 # experience
 experience:
   enable : true
-  title : "Experiência"
+  title : "Cronologia"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Início das práticas"
+      company : "SKYLAB"
+      duration : "2 de junho de 2021"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Prática mais recente"
+      company : "SKYLAB"
+      duration : "12 de agosto de 2021"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Fim das práticas"
+      company : "SKYLAB"
+      duration : "19 de agosto de 2021"
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Educação"
   item:
     - title : "Marters in UX Design"
@@ -78,20 +78,20 @@ service:
   enable : true
   title : "Serviços"
   item:
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
-
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Equipes de Saúde da Família"
+      icon : "ti-panel"
+      content : "O Skylab possui três equipes de saúde da família, que contam com diversos consultórios para atender a população"
       highlighted : true
 
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Infraestrutura Recente"
+      icon : "ti-palette"
+      content : "Revitalizada em 2015 a Skylab possui 400m² que abrigam dentre consultórios, sala de reuniões e locais de acessibilidade"
       highlighted : false
+
+    - title : "Equipes Odontológicas"
+      icon : "ti-vector"
+      content : "Possui dois equipes de odontologia com consultório exclusivo"
+      highlighted : true
 
 # portfolio
 portfolio:
@@ -105,24 +105,24 @@ testimonial:
   enable : true
   title : "Depoimentos"
   item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
+    - name : "Victor Nunes"
+      image : "images/testimonial/victor.jpeg"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "Sempre tendo iniciativa no contato com os pacientes, de forma que criava um bom vínculo com todos. Mesmo ausente em alguns momentos, buscava estar sempre presente nas decisões do grupo, contribuindo com os aprendizados."
       
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
+    - name : "Jamile Alves"
+      image : "images/testimonial/jamile.jpeg"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "Extremamente comprometida e pontual, Jamile representou a subturma diversas vezes ao longo da disciplina, sempre com sua calma e empatia, que consequentemente tornava mais fácil a comunicação tanto com seus colegas de subturma quanto diante do contato com os diversos pacientes."
       
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
+    - name : "Ingridy Souza"
+      image : "images/testimonial/ingridy.jpeg"
       designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      content : "Extremamente comprometida e pontual, Jamile representou a subturma diversas vezes ao longo da disciplina, sempre com sua calma e empatia, que consequentemente tornava mais fácil a comunicação tanto com seus colegas de subturma quanto diante do contato com os diversos pacientes."
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"

@@ -104,20 +104,20 @@ portfolio:
 testimonial:
   enable : true
   title : "Depoimentos"
-  item:
+  item:  
+    - name : "Ingridy Souza"
+      image : "images/testimonial/ingridy.jpeg"
+      designation : "Graduanda em Fisioterapia"
+      content : "Muito atenciosa com os pacientes e tendo as melhores ideias para adequar o tratamento ao paciente. Sempre disposta a ajudar o próximo e com um coração enorme."
+      
     - name : "Victor Nunes"
       image : "images/testimonial/victor.jpeg"
-      designation : "CEO, Funder"
+      designation : "Graduando em Fisioterapia"
       content : "Sempre tendo iniciativa no contato com os pacientes, de forma que criava um bom vínculo com todos. Mesmo ausente em alguns momentos, buscava estar sempre presente nas decisões do grupo, contribuindo com os aprendizados."
       
     - name : "Jamile Alves"
       image : "images/testimonial/jamile.jpeg"
-      designation : "CEO, Funder"
-      content : "Extremamente comprometida e pontual, Jamile representou a subturma diversas vezes ao longo da disciplina, sempre com sua calma e empatia, que consequentemente tornava mais fácil a comunicação tanto com seus colegas de subturma quanto diante do contato com os diversos pacientes."
-      
-    - name : "Ingridy Souza"
-      image : "images/testimonial/ingridy.jpeg"
-      designation : "CEO, Funder"
+      designation : "Graduanda em Fisioterapia"
       content : "Extremamente comprometida e pontual, Jamile representou a subturma diversas vezes ao longo da disciplina, sempre com sua calma e empatia, que consequentemente tornava mais fácil a comunicação tanto com seus colegas de subturma quanto diante do contato com os diversos pacientes."
 
 # client logo slider

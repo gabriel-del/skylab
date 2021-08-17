@@ -1,10 +1,10 @@
 ---
-title: "Artwork Design"
+title: "Joana"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
-client: "John Doe"
+image: "images/visitas/5.jpeg"
+client: "Joana"
 project_url : "https://themefisher.com/"
-categories: ["illustration"]
+categories: ["illustration","development"]
 description: "This is meta description."
 draft: false
 ---
@@ -17,6 +17,7 @@ ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vel
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
 
+{{< figure src="/images/visitas/5-2.jpeg" width="825px" >}}
 
 #### Project Details
 

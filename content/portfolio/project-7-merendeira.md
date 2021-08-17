@@ -1,10 +1,10 @@
 ---
-title: "Artwork Design"
+title: "Merendeira"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-8.png"
-client: "John Doe"
+image: "images/visitas/7.jpeg"
+client: "Merendeira"
 project_url : "https://themefisher.com/"
-categories: ["illustration","development"]
+categories: ["branding"]
 description: "This is meta description."
 draft: false
 ---

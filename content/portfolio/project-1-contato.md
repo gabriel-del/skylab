@@ -1,10 +1,10 @@
 ---
-title: "Artwork Design"
+title: "Primeiro Contato"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
+image: "images/visitas/1.jpeg"
 client: "John Doe"
 project_url : "https://themefisher.com/"
-categories: ["branding"]
+categories: ["design","development"]
 description: "This is meta description."
 draft: false
 ---

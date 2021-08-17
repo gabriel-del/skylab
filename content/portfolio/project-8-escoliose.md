@@ -1,10 +1,10 @@
 ---
-title: "Artwork Design"
+title: "Escoliose"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-5.png"
-client: "John Doe"
+image: "images/visitas/8.png"
+client: "Escoliose"
 project_url : "https://themefisher.com/"
-categories: ["design"]
+categories: ["illustration","development"]
 description: "This is meta description."
 draft: false
 ---

@@ -2,7 +2,7 @@
 baseURL = "https://skylab-fc.netlify.app/"
 languageCode = "pt-br"
 summaryLength = "10"
-theme = "skylab"
+#theme = "skylab"
 title = "Skylab"
 
 # css plugins
